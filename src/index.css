@@ -232,7 +232,7 @@ header .themeSelector .activeTheme{
   color: #737373;
 }
 
-.showTask i.bi-pencil-square{
+.showTask i.bi-pencil{
   font-size: 18px;
   color: #1363DF;
   cursor: pointer;
