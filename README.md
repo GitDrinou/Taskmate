@@ -1,6 +1,6 @@
 # Let's see what is look like
 
-[My taskmate](https://gitdrrinou-taskmate.netlify.app/).
+[My taskmate](gitdrinou-taskmate.netlify.app).
 
 ## Web App Type
 
